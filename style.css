@@ -1,0 +1,15 @@
+.background-img {
+  background-image: url(https://media.istockphoto.com/id/1614461053/photo/businessman-using-stylus-pen-signing-on-e-document-on-digital-tablet-via-mobile-app-at-modern.jpg?s=1024x1024&w=is&k=20&c=Yo-WyZ6-J38ymJvnf_zq_qKtbCKHlLLLiBT0nPaAOio=);
+  background-size: cover;
+  min-height: 90dvh;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px black;
+}
+
+.background-img2 {
+  background-image: url(https://images.unsplash.com/photo-1577086664693-894d8405334a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RyZWV0JTIwbWFwJTIwZ29vZ2xlfGVufDB8fDB8fHww);
+  background-size: cover;
+  min-height: 40dvh;
+}
